@@ -1,0 +1,45 @@
+:root{
+    --pink: #c92071;
+    --darg-gray: #474747;
+    --dark-gray-10: #47474710;
+    --dark-gray-3: #666666;
+    --dar-black: #1F1F1F;
+}
+footer{
+      display: flex;
+      flex-direction: column;
+      background-color: var(--dar-black);
+      background-color: var(--dar-black);
+}
+& p{
+    margin: 38px;
+    margin-top: 5px;
+    color: #fff;
+ }
+ .redes-socias{
+    display: flex;
+    gap: 15px;
+    margin: 37px;
+    margin-top: 1px;
+    
+ }
+ h3{
+     color: #fff;
+ }
+.logo-2{
+    height: 30px;
+    margin: 30px;
+    padding: 11px;
+    
+}
+.logo-text{
+    margin: 5px;
+    font-size: 37px;
+    color: #fff;
+
+}
+.informacoes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
